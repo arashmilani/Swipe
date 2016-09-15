@@ -1,3 +1,10 @@
+## Instalition
+Use npm to install it
+
+```
+npm install bird-swipe
+```
+
 ## Usage
 Swipe only needs to follow a simple pattern. Here is an example:
 
