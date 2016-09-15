@@ -1,5 +1,4 @@
 ## Instalition
-Use npm to install it
 
 ```
 npm install bird-swipe
